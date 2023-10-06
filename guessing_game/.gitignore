@@ -1,0 +1,17 @@
+# Arquivos e diretórios gerados pelo cargo (gerenciador de pacotes Rust)
+/target/
+
+# Arquivos de build do Rust
+Cargo.lock
+**/*.rs.bk
+
+# Arquivos de configuração do Rust
+.rustfmt.toml
+.rustup
+.rustup.toml
+
+# Dependências locais do Cargo
+# Você pode ajustar esta seção dependendo do seu projeto
+# Geralmente, você deseja ignorar o diretório /vendor/ e /target/
+/vendor/
+/target/
